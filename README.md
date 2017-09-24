@@ -9,21 +9,23 @@
 *Homo Sapien* | Tech Enthusiast | Developer | College Instructor | Lifestyle Photographer | Guitarist | Avid Reader | Wonderer | Minimalist
 
 ### SkillSet
-+ Languages 	: 	JavaScript ( Node | React | D3 | jQuery), JAVA (Android Java)
-+ Others		:	Git | Github | JIRA | Confluence | Trello | SCRUM | Kanban | BEM | SMACCS | Postman
++ Languages
+	JavaScript ( Node | React | D3 | jQuery), JAVA (Android Java)
++ Others
+	Git | Github | JIRA | Confluence | Trello | SCRUM | Kanban | BEM | SMACCS | Postman
 
 ### Work Experience
 - Sagarmatha College - BTEC Faculty, B.SC. CSIT Faculty
 	- FEB  2017 - PRESENT
-	- Computer Networks | Managing Networks | Network Security
+	Computer Networks | Managing Networks | Network Security
 
 - LeapFrog Technologies, Dillibazar, Kathmandu - Software Engineer
 	- AUG 2016 - PRESENT
-	- Node | React | Python | PostgreSQL
+	Node | React | Python | PostgreSQL
 
 - LeapFrog Technologies, Dillibazar, Kathmandu - Trainee - Android App Development
 	- JUNE 2016 - AUG 2016
-	- Android SDK v23 | Android Build Tools v23.0.3 | FFT
+	Android SDK v23 | Android Build Tools v23.0.3 | FFT
 
 - Lucideus Technology Pvt. Ltd., Hauz Khas, New Delhi - Trainee - Cyber Security
 	- JUN 2013 - JUL 2013
