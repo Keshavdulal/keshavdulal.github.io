@@ -2,15 +2,15 @@
 # Keshav Dulal
 📍 Kathmandu, Nepal
 ✉️ keshav.dulal@gmail.com
+
 [Github](https://github.com/Keshavdulal) | [StackOverflow](https://stackoverflow.com/users/3556531/keshavdulal?tab=profile) | [Twitter](https://twitter.com/keshavdulal) | [Medium](https://medium.com/@keshavdulal) | [Blog](https://thinkmandu.wordpress.com/) | [YouTube](https://www.youtube.com/channel/UCAZyPxmMGNV3WC8oRiVOnyQ)
 
 # TL;DR
 *Homo Sapien* | Tech Enthusiast | Developer | College Instructor | Lifestyle Photographer | Guitarist | Avid Reader | Wonderer | Minimalist
 
 ### SkillSet
-Languages 	: 	JavaScript ( Node | React | D3 | jQuery), JAVA (Android Java)
-Database	:	MySQL, MongoDB
-Others		:	Git | Github | JIRA | Confluence | Trello | SCRUM | Kanban | BEM | SMACCS | Postman
++ Languages 	: 	JavaScript ( Node | React | D3 | jQuery), JAVA (Android Java)
++ Others		:	Git | Github | JIRA | Confluence | Trello | SCRUM | Kanban | BEM | SMACCS | Postman
 
 ### Work Experience
 - Sagarmatha College - BTEC Faculty, B.SC. CSIT Faculty
