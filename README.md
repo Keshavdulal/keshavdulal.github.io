@@ -4,6 +4,8 @@
 
 [Github](https://github.com/Keshavdulal) | [StackOverflow](https://stackoverflow.com/users/3556531/keshavdulal?tab=profile) | [Twitter](https://twitter.com/keshavdulal) | [Medium](https://medium.com/@keshavdulal) | [Blog](https://thinkmandu.wordpress.com/) | [YouTube](https://www.youtube.com/channel/UCAZyPxmMGNV3WC8oRiVOnyQ)
 
+## [Frontend Development Guide 2017](https://github.com/Keshavdulal/Frontend-development-guide-2017)
+
 ## TL;DR
 *Homo Sapien* | Tech Enthusiast | Developer | College Instructor | Lifestyle Photographer | Guitarist | Avid Reader | Wonderer | Minimalist
 
@@ -16,7 +18,7 @@
 ## Work Experience
 - Sagarmatha College - BTEC Faculty, B.SC. CSIT Faculty
 	- FEB  2017 - PRESENT
-	
+
 Computer Networks | Managing Networks | Network Security
 
 - LeapFrog Technologies, Dillibazar, Kathmandu - Software Engineer
