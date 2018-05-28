@@ -1,55 +1,37 @@
-<!-- ![fit inline right](https://pbs.twimg.com/profile_images/803935588197879809/MXQjtCVo_400x400.jpg) -->
-
 # Keshav Dulal
 
-Kathmandu, Nepal
+> Full time Web Developer / Software Engineer @[Leapfrog Technology](https://www.lftechnology.com)
 
-| [Github](https://github.com/Keshavdulal) | [StackOverflow](https://stackoverflow.com/users/3556531/keshavdulal?tab=profile) | [Twitter](https://twitter.com/keshavdulal) | [Medium](https://medium.com/@keshavdulal) | [Blog](https://thinkmandu.wordpress.com/) | [YouTube](https://www.youtube.com/channel/UCAZyPxmMGNV3WC8oRiVOnyQ) | [Email](mailto:keshav.dulal@gmail.com) |
+> Part Time Lecturer
 
-## TL;DR
+> Free Time Film-maker / Photographer
 
-*Homo Sapien*, Tech Enthusiast, Web Developer, College Instructor, Lifestyle Photographer, Vlogger, Guitarist, Avid Reader, Wonderer, Minimalist
+> All time Minimalist
 
-## SkillSet
+> Based on Kathmandu, Nepal
 
-- Languages
-  - JavaScript (Primary), Python, Go (Rookie)
-- Framworks
-  - Node, React, D3, jQuery
-- Project Management
-  - JIRA, Confluence, Trello, SCRUM, Kanban
-- Project Development
-  - Git, Github, Git Flow, BEM, SMACCS, Postman, Markdown, Shell Scripting
+# Engineering
+[Github](https://github.com/Keshavdulal)
 
-## Work Experience
+[Stack Overflow](https://stackoverflow.com/users/3556531/keshavdulal?tab=profile)
 
-- Sagarmatha College - **BTEC, B.Sc. CSIT Faculty**
-  - FEB  2017 - PRESENT
-  - Computer Networks, Managing Networks, Network Security
+[LinkedIn](https://linkedin.com/keshavdulal)
 
-- LeapFrog Technologies, Dillibazar, Kathmandu - **Software Engineer**
-  - AUG 2016 - PRESENT
-  - Node, React, Python, PostgreSQL
+# Film-making
+[YouTube](https://www.youtube.com/channel/UCAZyPxmMGNV3WC8oRiVOnyQ)
 
-- LeapFrog Technologies, Dillibazar, Kathmandu - **Trainee**
-  - JUNE 2016 - AUG 2016
-  - Android App Development
-  - Android SDK v23, Android Build Tools v23.0.3
+[Film-making Gears](https://kit.com/keshavdulal)
 
-- Lucideus Technology Pvt. Ltd., Hauz Khas, New Delhi - Trainee - Cyber Security
-  - JUN 2013 - JUL 2013
-  - Lucideus Certified Cyber Security Analyst (LCCSA)
+# Photography
+[Instagram](https://www.instagram.com/keshav.dulal)
 
-## Education
 
-- Siddaganga Institute of Technology, Tumkur, India - B.E. (Computer Science Engineering)
-  - AUG  2012 - JUL 2016
+# Writing
 
-## Github Repos
+[Medium](https://medium.com/@keshavdulal)
 
-- [Frontend Development Guide 2017](https://github.com/Keshavdulal/Frontend-development-guide-2017)
-- [BTEC Network Security Notes](https://github.com/Keshavdulal/btec-network-security-notes)
-- [BSCIT Network Security Notes](https://github.com/Keshavdulal/bscit-network-security-notes)
-- [TUDP](https://github.com/Keshavdulal/tudp)
-- [GO-LEARN-GO](https://github.com/Keshavdulal/go-learn-go)
-- [MY MAC OSX APPS COMBO](https://github.com/Keshavdulal/my-mac-osx-app-combo)
+[Sort-of-Blog](https://thinkmandu.wordpress.com/)
+
+# Contact
+[Email](mailto:keshav.dulal@gmail.com) |
+[Twitter](https://twitter.com/keshavdulal)
